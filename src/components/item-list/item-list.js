@@ -9,14 +9,14 @@ export default class ItemList extends Component {
     swapiService = new SwapiService()
 
     state = {
-        peopleList: []
+        peopleList: null
     }
 
     componentDidMount() {
         this.swapiService
             .getAllPeople()
             .then((peopleList) => {
-                this.setState({peopleList})
+                this.setState({ peopleList })
             })
     }
 
