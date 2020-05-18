@@ -5,7 +5,7 @@ import ItemDetails, { Record } from '../item-details/item-details'
 
 import './people-page.css'
 import SwapiService from "../../services/swapi-service"
-import Row from "../Row"
+import Row from "../row"
 import ErrorBoundary from "../error-boundary"
 
 
