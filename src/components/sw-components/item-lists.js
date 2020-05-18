@@ -23,7 +23,7 @@ const renderNameAndGender = ({name, gender}) =>
     <span>{name}, &nbsp;{gender}</span>
 
 const renderNameAndModel = ({ name, model }) =>
-    <span>{name}, &nbsp;model: {model}</span>
+    <span>{name}, &nbsp;{model}</span>
 
 const renderNameAndPopulation = ({ name, population }) =>
     <span>{name}, &nbsp;{population} {population !== 'unknown' ? 'people' : null}</span>
