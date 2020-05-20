@@ -10,6 +10,7 @@ const PersonDetails = (props) => {
             <Record field="eyeColor" label="Eye Color" />
             <Record field="height" label="Height" />
             <Record field="birthYear" label="Birth Year" />
+            <Record field="homeworld" label="Homeworld" />
         </ItemDetails>
     )
 }
