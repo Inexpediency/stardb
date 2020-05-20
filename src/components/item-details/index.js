@@ -1,4 +1,4 @@
-import ItemDetails, { Record } from './item-details';
+import ItemDetails, { Record } from './item-details'
 
 export default ItemDetails
 
