@@ -12,7 +12,7 @@ const LoginPage = ({ isLoggedIn, onLogin }) => {
 
         return (
             <React.Fragment>
-                <h5>Login to see secret page!!! Do it as quickly as possible!!!</h5>
+                <h5>Login to see secret page!!!</h5>
                 <br/>
                 <button className="btn btn-primary" onClick={onLogin}>
                     Login
