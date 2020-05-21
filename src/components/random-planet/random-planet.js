@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 
 import Spinner from '../spinner'
 import SwapiService from '../../services/swapi-service'
-import ErrorIndicator from "../error-indicator"
+import { ErrorIndicator } from "../errors"
 
 import './random-planet.css'
 

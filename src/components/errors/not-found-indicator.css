@@ -1,0 +1,23 @@
+.not-found-indicator {
+    align-items: center;
+    max-width: 400px;
+    margin: auto;
+}
+
+.not-found-indicator img {
+    margin-right: 1.5rem;
+}
+
+.not-found-description {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color: #c78f22;
+    text-align: left;
+    letter-spacing: 0.1rem;
+}
+
+.not-found-description .boom {
+    font-size: 2rem;
+    letter-spacing: 0.3rem;
+}
