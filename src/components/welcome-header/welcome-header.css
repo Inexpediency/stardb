@@ -1,0 +1,27 @@
+.welcome-header {
+    align-items: center;
+}
+
+.description {
+    margin-left: 2rem;
+    margin-right: 4rem;
+}
+
+.description h1 {
+    font-size: 2.9rem;
+    margin-bottom: 1.2rem;
+}
+
+.description .lead {
+    font-size: 1.15rem;
+}
+
+.intro-img {
+    margin-right: 2rem;
+}
+
+.intro-img img{
+    width: 45em;
+    border-radius: 10px;
+    position: static;
+}

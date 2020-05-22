@@ -4,6 +4,7 @@
   flex-direction: column;
   align-items: center;
   color: #c78f22;
+  letter-spacing: 0.1rem;
 }
 
 .error-indicator img {
