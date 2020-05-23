@@ -1,4 +1,5 @@
-.welcome-header {
+.w-header {
+    align-content: center;
     align-items: center;
 }
 
@@ -18,10 +19,13 @@
 
 .intro-img {
     margin-right: 2rem;
+    width: 100%;
 }
 
 .intro-img img{
     width: 45em;
     border-radius: 10px;
     position: static;
+    max-width:100%;
+    height:auto;
 }

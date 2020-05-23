@@ -1,0 +1,15 @@
+.intro-img {
+    margin-right: auto;
+    align-content: center;
+    align-items: center;
+}
+
+.ii {
+    text-align: center;
+}
+
+.intro-img img {
+    height: auto;
+    border-radius: 10px;
+    max-width:100%;
+}
