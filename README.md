@@ -2,6 +2,8 @@
 
 <div align="center">
   
+  <h1> StarDB </h1>
+  
   <br>
 
   [![Badge](https://img.shields.io/badge/Uses-ReactJS-success.svg?style=flat-square)](1)
@@ -14,34 +16,27 @@
 
 ## Description:
 -    Star Data Base
--    Here you can see illustrations of person, planets, and spaceships from the Star Wars movie series and a little information about them.
+-    Data base of person, planets and spaceships include:
+      * pictures
+      * a little information about them
+-    From the Star Wars movie series.
 
 <br>
 
-## Examples:
+## Illustrations:
 
 <div align="center">
   
   <img src="https://github.com/Ythosa/stardb/blob/master/assets/welcome-page.png">
-  
-  <br>
-  
+    
   <img src="https://github.com/Ythosa/stardb/blob/master/assets/person.png">
-  
-  <br>
-  
+    
   <img src="https://github.com/Ythosa/stardb/blob/master/assets/planets.png">
-  
-  <br>
-  
+    
   <img src="https://github.com/Ythosa/stardb/blob/master/assets/starships-page.png">
-  
-  <br>
-  
+    
   <img src="https://github.com/Ythosa/stardb/blob/master/assets/starships.png">
   
-  <br>
-
 </div>
 
 <br>
